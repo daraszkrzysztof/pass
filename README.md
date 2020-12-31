@@ -1,3 +1,3 @@
 # pass
 
-cracking passwords using bruteforce
+cracking passwords by using bruteforce
